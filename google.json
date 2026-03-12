@@ -1,0 +1,1961 @@
+{
+    "domain": "google.com",
+    "timestamp": "2026-03-12T14:03:35.046069Z",
+    "total_subdomains": 109,
+    "results": {
+        "services.google.com": [
+            {
+                "port": 80,
+                "url": "http://services.google.com",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://services.google.com",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ar": [
+            {
+                "port": 80,
+                "url": "http://google.com.ar",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ar",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.my": [
+            {
+                "port": 80,
+                "url": "http://google.com.my",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.my",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ph": [
+            {
+                "port": 80,
+                "url": "http://google.com.ph",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ph",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.cu": [
+            {
+                "port": 80,
+                "url": "http://google.com.cu",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.cu",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.fj": [
+            {
+                "port": 80,
+                "url": "http://google.com.fj",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.fj",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ru": [
+            {
+                "port": 80,
+                "url": "http://google.com.ru",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ru",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.iq": [
+            {
+                "port": 80,
+                "url": "http://google.com.iq",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.iq",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "ecc-test.sandbox.google.com": [
+            {
+                "port": 80,
+                "url": "http://ecc-test.sandbox.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://ecc-test.sandbox.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.pk": [
+            {
+                "port": 80,
+                "url": "http://google.com.pk",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.pk",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "mail.google.com": [
+            {
+                "port": 443,
+                "url": "https://mail.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://mail.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.gr": [
+            {
+                "port": 80,
+                "url": "http://google.com.gr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.gr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "login.corp.google.com": [
+            {
+                "port": 443,
+                "url": "https://login.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://login.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.pg": [
+            {
+                "port": 80,
+                "url": "http://google.com.pg",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.pg",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.tr": [
+            {
+                "port": 80,
+                "url": "http://google.com.tr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.tr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.tw": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.tw",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.tw",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.vn": [
+            {
+                "port": 80,
+                "url": "http://google.com.vn",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.vn",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.au": [
+            {
+                "port": 80,
+                "url": "http://google.com.au",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.au",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.pl": [
+            {
+                "port": 80,
+                "url": "http://google.com.pl",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.pl",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.np": [
+            {
+                "port": 80,
+                "url": "http://google.com.np",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.np",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.vc": [
+            {
+                "port": 80,
+                "url": "http://google.com.vc",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.vc",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.pe": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.pe",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.pe",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.sv": [
+            {
+                "port": 80,
+                "url": "http://google.com.sv",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.sv",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.cy": [
+            {
+                "port": 80,
+                "url": "http://google.com.cy",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.cy",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ag": [
+            {
+                "port": 80,
+                "url": "http://google.com.ag",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ag",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ec": [
+            {
+                "port": 80,
+                "url": "http://google.com.ec",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ec",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.mm": [
+            {
+                "port": 80,
+                "url": "http://google.com.mm",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.mm",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.co": [
+            {
+                "port": 80,
+                "url": "http://google.com.co",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.co",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "www.google.com": [
+            {
+                "port": 80,
+                "url": "http://www.google.com",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://www.google.com",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ni": [
+            {
+                "port": 80,
+                "url": "http://google.com.ni",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ni",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.my": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.my",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.my",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.pr": [
+            {
+                "port": 80,
+                "url": "http://google.com.pr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.pr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "wifi.google.com": [
+            {
+                "port": 80,
+                "url": "http://wifi.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://wifi.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "mtalk.google.com": [
+            {
+                "port": 443,
+                "url": "https://mtalk.google.com",
+                "status": "Error",
+                "server": "No response",
+                "powered_by": "\u2014",
+                "csp": "\u2014"
+            }
+        ],
+        "google.com.mx": [
+            {
+                "port": 80,
+                "url": "http://google.com.mx",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.mx",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.jo": [
+            {
+                "port": 80,
+                "url": "http://google.com.jo",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.jo",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.qa": [
+            {
+                "port": 80,
+                "url": "http://google.com.qa",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.qa",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "jmt0.google.com": [
+            {
+                "port": 80,
+                "url": "http://jmt0.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://jmt0.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "proxyconfig.corp.google.com": [
+            {
+                "port": 443,
+                "url": "https://proxyconfig.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://proxyconfig.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.gh": [
+            {
+                "port": 80,
+                "url": "http://google.com.gh",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.gh",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "m.guts.corp.google.com": [
+            {
+                "port": 443,
+                "url": "https://m.guts.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://m.guts.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "adwords.google.com.ar": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.ar",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.ar",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "adwords.google.com.au": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.au",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.au",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.py": [
+            {
+                "port": 80,
+                "url": "http://google.com.py",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.py",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "upload.video.google.com": [
+            {
+                "port": 80,
+                "url": "http://upload.video.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://upload.video.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.ua": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.ua",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.ua",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.sg": [
+            {
+                "port": 80,
+                "url": "http://google.com.sg",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.sg",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.mx": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.mx",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.mx",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.ve": [
+            {
+                "port": 80,
+                "url": "http://google.com.ve",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ve",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.eg": [
+            {
+                "port": 80,
+                "url": "http://google.com.eg",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.eg",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.kh": [
+            {
+                "port": 80,
+                "url": "http://google.com.kh",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.kh",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.pk": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.pk",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.pk",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "adwords.google.com": [
+            {
+                "port": 80,
+                "url": "http://adwords.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://adwords.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.hk": [
+            {
+                "port": 80,
+                "url": "http://google.com.hk",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.hk",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.om": [
+            {
+                "port": 80,
+                "url": "http://google.com.om",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.om",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.kw": [
+            {
+                "port": 80,
+                "url": "http://google.com.kw",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.kw",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.lb": [
+            {
+                "port": 80,
+                "url": "http://google.com.lb",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.lb",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.et": [
+            {
+                "port": 80,
+                "url": "http://google.com.et",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.et",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.tw": [
+            {
+                "port": 80,
+                "url": "http://google.com.tw",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.tw",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "cert-test.sandbox.google.com": [
+            {
+                "port": 80,
+                "url": "http://cert-test.sandbox.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://cert-test.sandbox.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "m.google.com": [
+            {
+                "port": 443,
+                "url": "https://m.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://m.google.com",
+                "status": "Error",
+                "server": "No response",
+                "powered_by": "\u2014",
+                "csp": "\u2014"
+            }
+        ],
+        "google.com.sb": [
+            {
+                "port": 80,
+                "url": "http://google.com.sb",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.sb",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.sl": [
+            {
+                "port": 80,
+                "url": "http://google.com.sl",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.sl",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.mt": [
+            {
+                "port": 80,
+                "url": "http://google.com.mt",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.mt",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ai": [
+            {
+                "port": 443,
+                "url": "https://google.com.ai",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 80,
+                "url": "http://google.com.ai",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.af": [
+            {
+                "port": 80,
+                "url": "http://google.com.af",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.af",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.pa": [
+            {
+                "port": 80,
+                "url": "http://google.com.pa",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.pa",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.bn": [
+            {
+                "port": 80,
+                "url": "http://google.com.bn",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.bn",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ua": [
+            {
+                "port": 80,
+                "url": "http://google.com.ua",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ua",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.gr": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.gr",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.gr",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.bz": [
+            {
+                "port": 80,
+                "url": "http://google.com.bz",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.bz",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "accounts.google.com": [
+            {
+                "port": 443,
+                "url": "https://accounts.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://accounts.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.bd": [
+            {
+                "port": 80,
+                "url": "http://google.com.bd",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.bd",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "upload.google.com": [
+            {
+                "port": 80,
+                "url": "http://upload.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://upload.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.tn": [
+            {
+                "port": 80,
+                "url": "http://google.com.tn",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.tn",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ng": [
+            {
+                "port": 80,
+                "url": "http://google.com.ng",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ng",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "dg.video.google.com": [
+            {
+                "port": 80,
+                "url": "http://dg.video.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://dg.video.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.ly": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.ly",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.ly",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.ge": [
+            {
+                "port": 80,
+                "url": "http://google.com.ge",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ge",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.bh": [
+            {
+                "port": 80,
+                "url": "http://google.com.bh",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.bh",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.ly": [
+            {
+                "port": 80,
+                "url": "http://google.com.ly",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.ly",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "sandbox.google.com": [
+            {
+                "port": 80,
+                "url": "http://sandbox.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://sandbox.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.do": [
+            {
+                "port": 80,
+                "url": "http://google.com.do",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.do",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.tj": [
+            {
+                "port": 80,
+                "url": "http://google.com.tj",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.tj",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.bo": [
+            {
+                "port": 80,
+                "url": "http://google.com.bo",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.bo",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.ph": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.ph",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.ph",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.pe": [
+            {
+                "port": 80,
+                "url": "http://google.com.pe",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.pe",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "audioads.google.com": [
+            {
+                "port": 80,
+                "url": "http://audioads.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://audioads.google.com",
+                "status": 404,
+                "server": "Hidden (header suppressed)",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "m.gutsdev.corp.google.com": [
+            {
+                "port": 443,
+                "url": "https://m.gutsdev.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://m.gutsdev.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.by": [
+            {
+                "port": 80,
+                "url": "http://google.com.by",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.by",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.na": [
+            {
+                "port": 80,
+                "url": "http://google.com.na",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.na",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.vn": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.vn",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.vn",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.gt": [
+            {
+                "port": 80,
+                "url": "http://google.com.gt",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.gt",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.uy": [
+            {
+                "port": 80,
+                "url": "http://google.com.uy",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.uy",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com": [
+            {
+                "port": 80,
+                "url": "http://google.com",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "answers.google.com": [
+            {
+                "port": 80,
+                "url": "http://answers.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://answers.google.com",
+                "status": 200,
+                "server": "sffe",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.sg": [
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.sg",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.sg",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.br": [
+            {
+                "port": 80,
+                "url": "http://google.com.br",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.br",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "uberproxy.corp.google.com": [
+            {
+                "port": 443,
+                "url": "https://uberproxy.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://uberproxy.corp.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.nr": [
+            {
+                "port": 80,
+                "url": "http://google.com.nr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.nr",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.nf": [
+            {
+                "port": 443,
+                "url": "https://google.com.nf",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 80,
+                "url": "http://google.com.nf",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.sa": [
+            {
+                "port": 80,
+                "url": "http://google.com.sa",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.sa",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.tr": [
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.tr",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.tr",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "adwords.google.com.br": [
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.br",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.br",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "google.com.jm": [
+            {
+                "port": 80,
+                "url": "http://google.com.jm",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.jm",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "google.com.gi": [
+            {
+                "port": 80,
+                "url": "http://google.com.gi",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            },
+            {
+                "port": 443,
+                "url": "https://google.com.gi",
+                "status": 200,
+                "server": "Google Web Server",
+                "powered_by": "\u2014",
+                "csp": "No"
+            }
+        ],
+        "adwords.google.com.hk": [
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.hk",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.hk",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "adwords.google.com.ru": [
+            {
+                "port": 443,
+                "url": "https://adwords.google.com.ru",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 80,
+                "url": "http://adwords.google.com.ru",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ],
+        "gmail.google.com": [
+            {
+                "port": 80,
+                "url": "http://gmail.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            },
+            {
+                "port": 443,
+                "url": "https://gmail.google.com",
+                "status": 200,
+                "server": "Google Edge Serving Framework",
+                "powered_by": "\u2014",
+                "csp": "Yes"
+            }
+        ]
+    }
+}
