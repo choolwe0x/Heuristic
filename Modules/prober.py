@@ -1,25 +1,34 @@
 import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-def probe_target(subdomain, ports):
-    """Probes all open ports on a subdomain and returns a list of results."""
-    results = []
-    
-    for port in ports:
-        # Determine the protocol based on the port
-        protocol = "https" if port == 443 else "http"
-        url = f"{protocol}://{subdomain}:{port}"
-        
-        try:
-            # We follow redirects but set a timeout so we don't hang
-            response = requests.get(url, timeout=5, allow_redirects=True)
-            results.append({
-                "port": port,
-                "url": url,
-                "status": response.status_code,
-                "server": response.headers.get("Server", "Unknown")
-            })
-        except requests.exceptions.RequestException:
-            # If the connection fails, we can record that the service didn't respond
-            results.append({"port": port, "url": url, "status": "Error", "server": "N/A"})
-            
-    return results
+def probe_url(url, port):
+    try:
+        response = requests.get(url, timeout=5, allow_redirects=True)
+        return {
+            "port": port,
+            "url": url,
+            "status": response.status_code,
+            "server": response.headers.get("Server", "Unknown")
+        }
+    except requests.exceptions.RequestException:
+        return {"port": port, "url": url, "status": "Error", "server": "N/A"}
+
+def run_prober(scan_results):
+    print(f"[*] Probing HTTP services for {len(scan_results)} targets...")
+    final_results = {}
+    tasks = []
+    for sub, ports in scan_results.items():
+        for port in ports:
+            protocol = "https" if port == 443 else "http"
+            url = f"{protocol}://{sub}"
+            tasks.append((sub, url, port))
+
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        future_to_sub = {executor.submit(probe_url, url, port): sub for sub, url, port in tasks}
+        for future in as_completed(future_to_sub):
+            sub = future_to_sub[future]
+            if sub not in final_results:
+                final_results[sub] = []
+            final_results[sub].append(future.result())
+
+    return final_results
